@@ -1,4 +1,5 @@
-"""DHCPig 2.0, Written by xXTheSunXx. Update May 11Th 2024"""
+"""DHCPig 2.1, Written by xXTheSunXx. Update May 11Th 2024"""
+"""Includes option to type in information via the terminal"""
 import socket
 import sys
 import time
